@@ -1,0 +1,5 @@
+module CLibAVResample [system] {
+  header "avresample.h"
+  link "avresample"
+  export *
+}
